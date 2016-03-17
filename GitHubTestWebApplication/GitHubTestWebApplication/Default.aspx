@@ -11,10 +11,14 @@
     <div>
     <h1>
 
-        Welcome ! Git Hub App 
+        Welcome ! Git Hub App
+
+        
 
 
     </h1>
+        <br />
+        <h3>Gopi</h3>
         <h1>Sri</h1>
     </div>
     </form>
